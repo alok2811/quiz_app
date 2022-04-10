@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "188661899324",
+    "project_id": "ayuprep",
+    "storage_bucket": "ayuprep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188661899324:android:86f92e167e07578e9de339",
+        "android_client_info": {
+          "package_name": "app.ayuprep.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188661899324-qph6lrqhfdqv6jho3t8n7p6md875u504.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.ayuprep.com",
+            "certificate_hash": "1f137fe5f89dd437c6d7f3fb4af5ee1bb6730be4"
+          }
+        },
+        {
+          "client_id": "188661899324-l9cskslurfgfg32ou9sod034drjmipse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYWYqkY7Va9nD6jTvqucX1xo68Rpb_k2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188661899324-l9cskslurfgfg32ou9sod034drjmipse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

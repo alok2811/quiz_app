@@ -1,0 +1,315 @@
+{
+    "termAgreement":"By SigningUp/Logging In, You agree to our",
+    "termOfService":"Terms of Service",
+    "andLbl":"and",
+    "privacyPolicy":"Privacy Policy",
+
+    "otpVerificationLbl":"OTP\n Verification",
+    "otpSendLbl":"OTP has been sent to you\nOn your Mobile number",
+    "submitBtn":"Submit",
+    "resetLbl":"Resend Code in",
+    "resendBtn":"Resend OTP",
+    "resendSnackBar":"Request new OTP after 60 seconds",
+    "noInterNetSnackBar":"Please check your connection again, or connect to Wi-Fi",
+    "enterOtpMsg": "Please enter Otp",
+
+    "enterNumberLbl": "Enter Your \nMobile Number",
+    "receiveOtpLbl":"you'll Receive a 6 digit code to verify next.",
+    "countryLbl":"Country",
+    "validMobMsg":"Please enter valid mobile number",
+    "requestOtpLbl":"Request OTP",
+    "otpNotMatch": "Otp does Not Match",
+
+    "userLoginLbl":"User Login",
+    "emailRequiredMsg":"Email is Required",
+    "validEmail": "enter valid email",
+    "emailLbl":"Email",
+    "pwdLengthMsg":"password should be more then 6 char long",
+    "pwdLbl":"Password",
+    "loginLbl":"Login",
+    "enterEmailLbl":"Enter email address",
+    "forgotPwdLbl":"Forgot Password",
+    "resetPwdLbl":"Reset Password",
+    "resetEnterEmailLbl":"Enter the email address associated with your account",
+    "pwdResetLinkLbl":"Password reset link has been sent to your mail",
+    "orLbl": "OR",
+    "loginSocialMediaLbl":"Connect with one of the following Option",
+    "noAccountLbl":"Don't have an account? ",
+    "signUpLbl":"Sign Up",
+    "submittingButton" : "Submitting",
+
+    "cnPwdNotMatchMsg":"Confirm Password not match",
+    "cnPwdLbl":"Confirm Password",
+    "alreadyAccountLbl":"Already have an account?",
+    "emailVerify":"Verification email sent to",
+
+    "liveChatLbl":"Live Chat",
+    "entryLbl":"Entry",
+    "creatingLoadingLbl":"Creating..",
+    "creatingLbl":"Create",
+    "enterCodeLbl":"Enter Code",
+    "joiningLoadingLbl":"Joining..",
+    "joinLbl":"Join",
+
+    "waitOtherComplete":"Wait For Other to complete...",
+
+    "waitingLbl":"Waiting..",
+     "roomDeletedOwnerLbl": "Room deleted by owner",
+    "okayLbl":"Okay",
+    "entryAmountLbl":"Entry Amount",
+    "roomCodeLbl":"Room code",
+    "shareRoomCodeLbl":"Share this room code to friends \n and ask them to join",
+    "vsLbl": "VS",
+    "startLbl":"Start",
+
+    "findingOpponentLbl":"Finding opponent...",
+    "foundOpponentLbl":"Found opponent",
+    "getReadyLbl": "Get Ready For Quiz",
+    "bestOfLuckLbl":"Best Of Luck",
+    "opponentNotFoundLbl":"Opponent not found.\nTry later!",
+    "retryLbl":"Retry",
+
+    "youWonLbl": "You won",
+    "opponentLeftLbl": "Opponent left the game",
+    "youLeftLbl": "You left the game",
+
+    "everyOneLeftLbl": "Everyone left the game",
+
+    "resultLbl":"RESULT",
+    "youLostLbl":"YOU LOST",
+    "exitLbl":"Exit",
+
+    "referralCodeLbl": "Referral Code",
+    "enterReferralCodeLbl":"Enter referral code",
+
+    "selfChallengeLbl":"Self Challenge Mode",
+    "challengeYourselfLbl": "Challenge yourself",
+
+    "photoLibraryLbl":"Photo Library",
+    "cameraLbl":"Camera",
+
+    "updatingLbl":"Updating",
+    "updateLbl":"Update",
+    "enterValidEmailMsg":"Please enter valid email",
+
+    "enterValidNameMsg":"Please enter valid name",
+
+    "bookmarkLbl": "Bookmark",
+    "howToPlayLbl":"How to Play",
+    "inviteFriendsLbl":"Invite Friends",
+    "contactUs": "Contact Us",
+    "aboutUs": "About Us",
+    "termsAndConditions": "Terms & Conditions",
+    "rateUsLbl":"Rate Us",
+    "shareAppLbl":"Share App",
+    "logoutLbl":"Logout",
+    "logoutDialogLbl":"Are you sure to logout?",
+    "yesBtn": "Yes",
+    "noBtn":"No",
+    "profileLbl":"Profile",
+    "nameLbl":"Name",
+    "notEditNumberMsg":"Can't edit mobile number",
+    "mobileNumberLbl":"Mobile Number",
+    "notEditMailLbl":"Can't edit email",
+
+    "selectProfilePhotoLbl": "Select Profile Photo",
+    "selectProfileLbl":"Please select profile photo",
+    "uploadProfilePictureLbl":"uploadProfilePicture",
+    "continueLbl":"Continue",
+    "enterNameLbl":"Enter your name",
+
+    "completedLbl":"Completed",
+    "playingLbl":"Playing",
+
+    "completeAllQueLbl":"Completed all questions",
+    "goBAckLbl":"Go Back",
+
+    "contestLeaderBoardLbl":"Contest LeaderBoard",
+
+    "pastLbl":"PAST",
+    "liveLbl":"LIVE",
+    "upcomingLbl":"UPCOMING",
+    "contestLbl":"Contest",
+    "noPastGameLbl":"no past game",
+    "entryFeesLbl":"Entry fees",
+    "endsOnLbl":"Ends On",
+    "playersLbl":"players",
+    "leaderboardLbl":"Leaderboard",
+    "playLbl":"Play",
+
+    "questionLbl":"Question",
+
+    "victoryLbl":"VICTORY",
+    "congratulationsLbl":"Congratulations",
+    "defeatLbl":"DEFEAT",
+    "betterNextLbl":"Better luck next time",
+    "winnerLbl":"Winner",
+    "youLossLbl":"You Loss",
+    "matchDrawLbl":"MATCH DRAW",
+    "looserLbl": "Looser",
+    "playAgainBtn":"PLAY AGAIN",
+    "nextLevelBtn":"NEXT LEVEL",
+    "shareScoreBtn":"SHARE YOUR SCORE",
+    "myScoreLbl":"My Quiz Score",
+    "reviewAnsBtn":"REVIEW ANSWERS",
+    "anotherOpponentBtn":"ANOTHER OPPONENT",
+    "homeBtn":"HOME",
+
+    "notesLbl":"Notes",
+    "yourAnsLbl":"Your Answer",
+    "correctAndLbl": "Correct Answer ",
+    "reviewAnswerLbl":"Review Answer",
+
+    "oneToOneLbl": "ONE TO ONE",
+    "privateRoomLbl": "PRIVATE ROOM",
+    "publicRoomLbl": "PUBLIC ROOM",
+
+    "attemptedLbl": "Attempted",
+    "unAttemptedLbl":"Un-Attempted",
+    "selfChallenge": "Self Challenge",
+
+    "selectNoQusLbl":"Select Number Of Questions",
+    "selectTimeLbl":"Select Time Period In Minutes",
+
+    "levelLbl":"Level",
+
+    "noBookmarkQueLbl":"No bookmarked questions",
+    "playBookmarkBtn":"Play Bookmark",
+
+    "coinsLbl":"Coins",
+    "offerLbl":"Offer",
+    "storeLbl":"Store",
+
+    "title1":"TEST YOUR KNOWLEDGE",
+    "title2": "MIND BATTLES",
+    "title3": "LEARN",
+    "description1": "There are hundereds of different categories to choose from",
+    "description2": "Challenge other players in daily intellectual battles",
+    "description3": "Perform tasks, get cool bonuses ,ranks and awards",
+
+    "dailyLbl":"Daily",
+    "monthLbl":"Month",
+    "allTimeLbl":"All time",
+
+    "referAndEarn":"REFER AND EARN",
+    "referFrdLbl":"Refer a friend, and you will get 100 coins each time your referral code is used and your friend will get 50 coins by usign your code.",
+    "yourRefCOdeLbl":"YOUR REFERRAL CODE",
+    "referCodeCopyMsg":"Referral code copied",
+    "shareNowLbl":"Share Now",
+
+
+    "quizFanLbl": "Quiz Fan",
+    "completeSubTitle": "Complete 10 game Complete 10 game ",
+    "rewardsLbl":"Rewards",
+
+
+    "quizLbl":"The Flutter Quiz App",
+
+    "quizExitLbl":"Do you want to exit the quiz?",
+
+    "fontSizeLbl": "Font Size",
+
+    "soundLbl":"Sound",
+    "vibrationLbl":"Vibration",
+    "settingLbl":"Settings",
+
+
+    "quizZone":"Quiz Zone",
+    "dailyQuiz":"Daily Quiz",
+    "groupPlay":"Group Battle",
+    "battleQuiz":"1 v/s 1 Battle",
+    "contest":"Contest",
+    "guessTheWord":"Guess The Word",
+    "funAndLearn":"Fun 'N' Learn",
+    "trueAndFalse":"True / False",
+
+    "desQuizZone":"Select your favorite zone to play",
+    "desDailyQuiz":"Daily basic new quiz game",
+    "desGroupPlay":"It's a group quiz battle",
+    "desBattleQuiz":"Battle with one on one",
+    "desContest":"Play quiz contest",
+    "desGuessTheWord":"Fun vocabulary game",
+    "desFunAndLearn":"it's like a Comprehension game",
+    "desTrueAndFalse":"Quiz with True / Fales format",
+
+    "noCoinsMsg": "No enough coins to play contest",
+    "defaultErrorMessage" : "Something went wrong. Please try again later",
+     "invalid-email" : "Email is invalid",
+     "user-disabled:" : "Account is disabled",
+     "user-not-found" : "User not found",
+     "wrong-password" :"Password is incorrect",
+     "account-exists-with-different-credential" : "Account already exist",
+     "invalid-credential" : "Credential is invalid",
+     "operation-not-allowed" : "Operation not allowed for this credential",
+     "invalid-verification-code" : "Verification code is invalid",
+     "invalid-verification-id" : "Verification id is invalid",
+     "noInternet" : "No Internet",
+     "dataNotFound": "Unable to find data",
+     "invalidHash" : "Invalid hash",
+     "fillAllData" : "Please fill all data",
+     "fileUploadFail" : "Unable to upload image",
+     "dailyQuizAlreadyPlayed" : "Already played",
+     "noMatchesPlayed" : "No matches played, yet",
+     "noUpcomingContest" : "No upcoimng contest",
+     "noContest" : "No contest",
+     "notPlayedContest" : "Not played contest",
+     "contestAlreadyPlayed" : "Already played",
+     "roomAlreadyCreated" : "Room already created",
+     "unauthorizedAccess" : "Unautrhorized access",
+     "levelLocked" : "Level is locked",
+     "updateBookmarkFailure" : "Unable to update bookmark status",
+     "lifeLineUsed" : "Already used this lifeline",
+     "notEnoughCoins" : "Not enough coins",
+     "notesNotAvailable" : "Notes not available",
+     "selectAllValues" : "Please select all values",
+     "canNotStartGame" : "Can not start game",
+     "roomCodeInvalid" : "Roomcode is invalid",
+     "gameStarted" : "Game already started",
+
+    "roomIsFull" : "Room is full",
+
+    "uploadingBtn":"Uploading...",
+    "rankLbl":"Classificação",
+    "scoreLbl": "Score",
+    "otpNotMatchMsg": "enter valid Otp",
+
+    "unabaleToCreateRoom" : "Unable to create room",
+    "unableToFindRoom" : "Unable to find room",
+    "unableToJoinRoom" : "Unable to join room",
+    "unableToSubmitAnswer" : "Unable to submit answer",
+    "iHaveInviteCode" : "I have an invite code",
+    "cancel" : "Cancel",
+
+    "reportQuestion" : "Report Question",
+    "enterReason" : "Enter your reason",
+    "letsStart" : "Let's Start",
+    "showAdsLbl": "See Ads to Use LifeLine?",
+
+    "email-already-in-use" : "Email already in use",
+    "weak-password" : "Password is weak",
+    "verifyEmail" : "Please verify your email",
+    "createRoom" : "Create Room",
+    "joinRoom" : "Join Room",
+    "accountDeactivated" : "Your account has been deactivated by the admin",
+    "currentlyNotAvailable" : "Currently not available"
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

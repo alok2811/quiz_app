@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="notification" transform="translate(-1511 -1138)">
+    <rect id="back" width="60" height="60" transform="translate(1511 1138)" fill="none"/>
+    <path id="notification-2" data-name="notification" d="M28.894,58.375a5.5,5.5,0,0,0,5.475-5.5H23.419A5.5,5.5,0,0,0,28.894,58.375Zm17.794-16.5V26.75A17.824,17.824,0,0,0,33,9.425V7.5a4.106,4.106,0,1,0-8.213,0V9.425A17.824,17.824,0,0,0,11.1,26.75V41.875l-5.475,5.5v2.75H52.163v-2.75Z" transform="translate(1512.106 1137.125)" fill="#f97b5e"/>
+  </g>
+</svg>

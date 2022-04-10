@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111" height="111" viewBox="0 0 111 111">
+  <g id="blink_emoji" transform="translate(-314 -1564)">
+    <g id="Group_3328" data-name="Group 3328" transform="translate(-390.26 1548.204)">
+      <path id="Path_11525" data-name="Path 11525" d="M741.269,62.025a8.115,8.115,0,1,0,0-16.229,8.115,8.115,0,1,0,0,16.229Zm43.142-11.34h-18.25v6.449h18.25ZM759.269,90.23a33.682,33.682,0,0,1-28.009-15.1,29.048,29.048,0,0,0,28.009,21.3c13.571.249,24.7-8.857,28.471-21.081A34.822,34.822,0,0,1,759.269,90.23Z" transform="translate(0 0)" fill="#434b5d" stroke="#434b5d" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+    <g id="Rectangle_585" data-name="Rectangle 585" transform="translate(314 1564)" fill="none" stroke="#434b5d" stroke-width="6">
+      <rect width="111" height="111" rx="36" stroke="none"/>
+      <rect x="3" y="3" width="105" height="105" rx="33" fill="none"/>
+    </g>
+  </g>
+</svg>

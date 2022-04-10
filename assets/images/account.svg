@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="account" transform="translate(-1511 -1138)">
+    <rect id="back" width="60" height="60" transform="translate(1511 1138)" fill="none"/>
+    <path id="account-2" data-name="account" d="M30.5,3A27.5,27.5,0,1,0,58,30.5,27.51,27.51,0,0,0,30.5,3Zm0,8.25a8.25,8.25,0,1,1-8.25,8.25A8.239,8.239,0,0,1,30.5,11.25Zm0,39.05A19.8,19.8,0,0,1,14,41.445c.083-5.472,11-8.47,16.5-8.47,5.473,0,16.417,3,16.5,8.47A19.8,19.8,0,0,1,30.5,50.3Z" transform="translate(1510.5 1137.5)" fill="#f97b5e"/>
+  </g>
+</svg>
